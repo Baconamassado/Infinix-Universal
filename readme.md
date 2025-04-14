@@ -1,5 +1,11 @@
 # 🎯 Infinix PvP Features (  Releasing soon...  )
 
+## 📥 Loadstring
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix-PvP/refs/heads/main/Infinix-PvP.lua"))()
+```
+
 ## 🔫 Aimbot & ESP
 - 🎯 **Aimbot**
   - 🧠 *Intelligent Mode* — Prioritizes low-health enemies
