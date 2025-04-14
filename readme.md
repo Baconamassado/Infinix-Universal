@@ -3,6 +3,8 @@
 ## 📥 Loadstring
 
 ```lua
+_G.ML = false -- True to load multiple times / True para executar mais de uma vez
+-- _G.ProtectName = false arsenal streamer mode, coming soon... / Modo streamer arsenal, chegando em breve...
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix-PvP/refs/heads/main/Infinix-PvP.lua"))()
 ```
 
