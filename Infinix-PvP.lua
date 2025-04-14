@@ -1,3 +1,3 @@
 local p = game.Players.LocalPlayer
 
-p:kick('Soon...')
+p:kick('Releasing soon...')
