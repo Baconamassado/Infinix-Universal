@@ -1,4 +1,4 @@
-# 🎯 Infinix PvP Features (  Releasing soon...  )
+# 🎯 Infinix Universal Features (  Releasing soon...  )
 
 ## 📥 Loadstring
 
