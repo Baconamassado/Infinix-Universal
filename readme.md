@@ -47,5 +47,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix
 
 ---
 
-## Fling Things and People
+## 🪵 Fling Things and People
 - 🦾 Super strength
