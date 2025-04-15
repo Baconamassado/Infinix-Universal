@@ -44,3 +44,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix
   - ♾️ *Infinite Ammo SOON*
   - ⚡ *Fire Rate Modifier SOON*
   - 🌟 *Fire rate - No recoil - Infinite ammo all in one*
+
+---
+
+## Fling Things and People
+- 🦾 Super strength
