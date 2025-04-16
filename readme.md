@@ -1,7 +1,12 @@
 <p align="center">‹ This script page is designed for GitHub Dark Theme ›</p>
 <br>
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0f0f0f&section=header"/></a>
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=00FFCC&center=true&vCenter=true&width=1000&height=60&lines=🎯+Infinix+Universal+Features; 🔥+Releasing+Soon..."/></a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=dark&text=Infinix" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=00FFCC&center=true&vCenter=true&width=1000&height=60&lines=🎯+Infinix+Universal+Features;🔥+Releasing+Soon..." />
+</p>
 <br>
 
 <p align="center">
