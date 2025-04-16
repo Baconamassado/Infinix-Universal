@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-    <a href="https://discord.gg/26j4T8qS7F"><img width="8%" src="https://imgur.com/INRJRUh.png" alt="Discord Server"/></a>
+    <a href="https://guns.lol/bacon_"><img width="8%" src="https://th.bing.com/th/id/OIP.LCmg5ZNte4s7DieVm06IBAAAAA?rs=1&pid=ImgDetMain" alt="Guns.LoL profile"/></a>
 </p>
 
 ---
