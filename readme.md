@@ -83,8 +83,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix
 
 ## 🕴️Skill-Based Boss Fight
 
-- 💠 **Expand Hitbox**
-- 💨 **Infinite Stamina
+- 💠 **Expand boss Hitbox**
+- 💨 **Infinite Stamina**
 
 ## 🔮 Spoilers
 
