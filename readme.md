@@ -81,17 +81,18 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix
 
 ---
 
+## 🕴️Skill-Based Boss Fight
+
+- 💠 **Expand Hitbox**
+- 💨 **Infinite Stamina
+
 ## 🔮 Spoilers
 
 > ⚠️ Features under development or being considered:
 
 - Total customization for Gun Ground FFA weapon modifications  
 - *(Unlikely)* Grab Aura for Fling Things and People  
-- Global Fling (Fling All)  
-- Skill-Based Boss Fight Support:  
-  - Expand Hitbox  
-  - Infinite Stamina  
-  - And more...
+- Global Fling (Fling All)
 
 ---
 
