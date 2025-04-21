@@ -98,7 +98,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix
 
 WARNS:
 
-- if u go in a supported game, a new tab will be created not a whole new script
+- If you join a supported game, a new tab will be created — not an entirely new script.
 - bad english in script (and here lol)
 - expect errors
 
