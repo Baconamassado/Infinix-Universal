@@ -18,8 +18,7 @@
 ## 📅 Loadstring
 
 ```lua
-_G.ML = false -- Set to true to execute multiple times
--- _G.ProtectName for Arsenal streamer mode, coming soon...
+_G.ML = false -- Set to true to execute multiple times (MULTI LOAD)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix-PvP/refs/heads/main/Infinix-PvP.lua"))()
 ```
 
