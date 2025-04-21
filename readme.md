@@ -96,6 +96,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconamassado/Infinix
 
 ---
 
+WARNS:
+
+- if u go in a supported game, a new tab will be created not a whole new script
+- bad english in script (and here lol)
+- expect errors
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Baconamassado&style=for-the-badge&label=Views:&color=gray"/>
 </p>
