@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=00FFCC&center=true&vCenter=true&width=1000&height=60&lines=🎯+Infinix+Universal+Features;🔥+Releasing+Soon..." />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=00FFCC&center=true&vCenter=true&width=1000&height=60&lines=🎯+Infinix+Universal+Features;🔥+Released!" />
 </p>
 <br>
 
